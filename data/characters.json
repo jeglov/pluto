@@ -1,0 +1,477 @@
+{
+	"characterProficiency": [
+		{
+			"name": "Armor",
+			"style": "fas fa-helmet-battle",
+			"prop": "item",
+			"groups": [
+				{
+					"name": "Light",
+					"item": [
+						{
+							"name": "padded armor",
+							"item": "padded armor|phb"
+						},
+						{
+							"name": "padded armor",
+							"item": "padded armor|phb"
+						},
+						{
+							"name": "leather armor",
+							"item": "leather armor|phb"
+						}
+					]
+				},
+				{
+					"name": "Medium",
+					"item": [
+						{
+							"name": "hide armor",
+							"item": "hide armor|phb"
+						},
+						{
+							"name": "chain shirt",
+							"item": "chain shirt|phb"
+						},
+						{
+							"name": "scale mail",
+							"item": "scale mail|phb"
+						},
+						{
+							"name": "breastplate",
+							"item": "breastplate|phb"
+						},
+						{
+							"name": "half plate armor",
+							"item": "half plate armor|phb"
+						}
+					]
+				},
+				{
+					"name": "Heavy",
+					"item": [
+						{
+							"name": "ring mail",
+							"item": "ring mail|phb"
+						},
+						{
+							"name": "chain mail",
+							"item": "chain mail|phb"
+						},
+						{
+							"name": "splint armor",
+							"item": "splint armor|phb"
+						},
+						{
+							"name": "plate armor",
+							"item": "plate armor|phb"
+						}
+					]
+				},
+				{
+					"name": "Shield",
+					"item": [
+						{
+							"name": "shields",
+							"alias": [
+								"shield"
+							],
+							"item": "shield|phb"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Weapon",
+			"style": "fas fa-swords",
+			"prop": "item",
+			"groups": [
+				{
+					"name": "Simple Melee",
+					"item": [
+						{
+							"name": "club",
+							"item": "club|phb"
+						},
+						{
+							"name": "dagger",
+							"item": "dagger|phb"
+						},
+						{
+							"name": "greatclub",
+							"item": "greatclub|phb"
+						},
+						{
+							"name": "handaxe",
+							"item": "handaxe|phb"
+						},
+						{
+							"name": "javelin",
+							"item": "javelin|phb"
+						},
+						{
+							"name": "light hammer",
+							"item": "light hammer|phb"
+						},
+						{
+							"name": "mace",
+							"item": "mace|phb"
+						},
+						{
+							"name": "quarterstaff",
+							"item": "quarterstaff|phb"
+						},
+						{
+							"name": "sickle",
+							"item": "sickle|phb"
+						},
+						{
+							"name": "spear",
+							"item": "spear|phb"
+						}
+					]
+				},
+				{
+					"name": "Simple Ranged",
+					"item": [
+						{
+							"name": "light crossbow",
+							"item": "light crossbow|phb"
+						},
+						{
+							"name": "dart",
+							"item": "dart|phb"
+						},
+						{
+							"name": "shortbow",
+							"item": "shortbow|phb"
+						},
+						{
+							"name": "sling",
+							"item": "sling|phb"
+						}
+					]
+				},
+				{
+					"name": "Martial Melee",
+					"item": [
+						{
+							"name": "battleaxe",
+							"item": "battleaxe|phb"
+						},
+						{
+							"name": "flail",
+							"item": "flail|phb"
+						},
+						{
+							"name": "glaive",
+							"item": "glaive|phb"
+						},
+						{
+							"name": "greataxe",
+							"item": "greataxe|phb"
+						},
+						{
+							"name": "greatsword",
+							"item": "greatsword|phb"
+						},
+						{
+							"name": "halberd",
+							"item": "halberd|phb"
+						},
+						{
+							"name": "lance",
+							"item": "lance|phb"
+						},
+						{
+							"name": "longsword",
+							"item": "longsword|phb"
+						},
+						{
+							"name": "maul",
+							"item": "maul|phb"
+						},
+						{
+							"name": "morningstar",
+							"item": "morningstar|phb"
+						},
+						{
+							"name": "pike",
+							"item": "pike|phb"
+						},
+						{
+							"name": "rapier",
+							"item": "rapier|phb"
+						},
+						{
+							"name": "scimitar",
+							"item": "scimitar|phb"
+						},
+						{
+							"name": "shortsword",
+							"item": "shortsword|phb"
+						},
+						{
+							"name": "trident",
+							"item": "trident|phb"
+						},
+						{
+							"name": "war pick",
+							"item": "war pick|phb"
+						},
+						{
+							"name": "warhammer",
+							"item": "warhammer|phb"
+						},
+						{
+							"name": "whip",
+							"item": "whip|phb"
+						}
+					]
+				},
+				{
+					"name": "Martial Ranged",
+					"item": [
+						{
+							"name": "blowgun",
+							"item": "blowgun|phb"
+						},
+						{
+							"name": "hand crossbow",
+							"item": "hand crossbow|phb"
+						},
+						{
+							"name": "heavy crossbow",
+							"item": "heavy crossbow|phb"
+						},
+						{
+							"name": "longbow",
+							"item": "longbow|phb"
+						},
+						{
+							"name": "net",
+							"item": "net|phb"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Tool",
+			"style": "fas fa-shovel",
+			"prop": "item",
+			"groups": [
+				{
+					"name": "Artisan's Tools",
+					"item": [
+						{
+							"name": "alchemist's supplies",
+							"item": "alchemist's supplies|phb"
+						},
+						{
+							"name": "brewer's supplies",
+							"item": "brewer's supplies|phb"
+						},
+						{
+							"name": "calligrapher's supplies",
+							"item": "calligrapher's supplies|phb"
+						},
+						{
+							"name": "carpenter's tools",
+							"item": "carpenter's tools|phb"
+						},
+						{
+							"name": "cartographer's tools",
+							"item": "cartographer's tools|phb"
+						},
+						{
+							"name": "cobbler's tools",
+							"item": "cobbler's tools|phb"
+						},
+						{
+							"name": "cook's utensils",
+							"item": "cook's utensils|phb"
+						},
+						{
+							"name": "glassblower's tools",
+							"item": "glassblower's tools|phb"
+						},
+						{
+							"name": "jeweler's tools",
+							"item": "jeweler's tools|phb"
+						},
+						{
+							"name": "leatherworker's tools",
+							"item": "leatherworker's tools|phb"
+						},
+						{
+							"name": "mason's tools",
+							"item": "mason's tools|phb"
+						},
+						{
+							"name": "painter's supplies",
+							"item": "painter's supplies|phb"
+						},
+						{
+							"name": "potter's tools",
+							"item": "potter's tools|phb"
+						},
+						{
+							"name": "smith's tools",
+							"item": "smith's tools|phb"
+						},
+						{
+							"name": "tinker's tools",
+							"item": "tinker's tools|phb"
+						},
+						{
+							"name": "weaver's tools",
+							"item": "weaver's tools|phb"
+						},
+						{
+							"name": "woodcarver's tools",
+							"item": "woodcarver's tools|phb"
+						}
+					]
+				},
+				{
+					"name": "Gaming Sets",
+					"item": [
+						{
+							"name": "dice set",
+							"item": "dice set|phb"
+						},
+						{
+							"name": "dragonchess set",
+							"item": "dragonchess set|phb"
+						},
+						{
+							"name": "playing card set",
+							"item": "playing card set|phb"
+						},
+						{
+							"name": "three-dragon ante set",
+							"item": "three-dragon ante set|phb"
+						}
+					]
+				},
+				{
+					"name": "Musical Instruments",
+					"item": [
+						{
+							"name": "bagpipes",
+							"item": "bagpipes|phb"
+						},
+						{
+							"name": "drum",
+							"item": "drum|phb"
+						},
+						{
+							"name": "dulcimer",
+							"item": "dulcimer|phb"
+						},
+						{
+							"name": "flute",
+							"item": "flute|phb"
+						},
+						{
+							"name": "lute",
+							"item": "lute|phb"
+						},
+						{
+							"name": "lyre",
+							"item": "lyre|phb"
+						},
+						{
+							"name": "horn",
+							"item": "horn|phb"
+						},
+						{
+							"name": "pan flute",
+							"item": "pan flute|phb"
+						},
+						{
+							"name": "shawm",
+							"item": "shawm|phb"
+						},
+						{
+							"name": "viol",
+							"item": "viol|phb"
+						}
+					]
+				},
+				{
+					"name": "Vehicles",
+					"item": [
+						"land",
+						"water",
+						"air"
+					]
+				},
+				{
+					"name": "Others",
+					"item": [
+						{
+							"name": "disguise kit",
+							"item": "disguise kit|phb"
+						},
+						{
+							"name": "forgery kit",
+							"item": "forgery kit|phb"
+						},
+						{
+							"name": "herbalism kit",
+							"item": "herbalism kit|phb"
+						},
+						{
+							"name": "navigator's tools",
+							"item": "navigator's tools|phb"
+						},
+						{
+							"name": "poisoner's kit",
+							"item": "poisoner's kit|phb"
+						},
+						{
+							"name": "thieves' tools",
+							"item": "thieves' tools|phb"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Language",
+			"style": "fas fa-comments-alt",
+			"prop": "language",
+			"groups": [
+				{
+					"name": "Standard",
+					"language": [
+						"common",
+						"dwarvish",
+						"elvish",
+						"giant",
+						"gnomish",
+						"goblin",
+						"halfling",
+						"orc"
+					]
+				},
+				{
+					"name": "Exotic",
+					"language": [
+						"abyssal",
+						"celestial",
+						"draconic",
+						"deep speech",
+						"infernal",
+						"primordial",
+						"sylvan",
+						"undercommon"
+					]
+				}
+			]
+		}
+	]
+}
